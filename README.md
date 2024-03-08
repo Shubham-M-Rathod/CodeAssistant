@@ -18,3 +18,5 @@ Streamlit for the web application interface</li>
 Autogen for the multi-agent system and LLM interactions</li>
 <li shape='square'>
 Chromadb for persistent data storage</li>
+<li shape='square'>
+Open source  LLM Gemma</li>
