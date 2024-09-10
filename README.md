@@ -1,4 +1,4 @@
-# Multi-Agent LLM Code Summarization and Documentation
+# Multi-Agent LLM Code Assistant
 <!-- Write your comments here 
 https://github.com/Shubham-M-Rathod/CodeAssistant/assets/96727745/0060960b-a6bc-486d-9657-110da695645c
 -->
